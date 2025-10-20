@@ -18,7 +18,7 @@
 	 -->
 	
 	<mappers>
-	
+		<mapper  resource="/mapper/member-mapper.xml" />
 	</mappers>
 
 </configuration>
